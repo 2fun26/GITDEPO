@@ -8,5 +8,7 @@ public class Class {
 
         System.out.println("Ikinci deneme");
 
+        System.out.println("ucuncu deneme.");
+
     }
 }
