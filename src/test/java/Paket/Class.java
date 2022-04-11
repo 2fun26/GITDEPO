@@ -8,5 +8,7 @@ public class Class {
         System.out.println("huseyin_deneme");
 
 
+        System.out.println("ucuncu deneme.");
+
     }
 }
