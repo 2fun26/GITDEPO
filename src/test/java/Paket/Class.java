@@ -7,6 +7,8 @@ public class Class {
         System.out.println("Bismillahirrahmanirrahim.");
 
         System.out.println("Ikinci deneme");
+        System.out.println("Ikinci deneme ben ihsan");
+
 
     }
 }
