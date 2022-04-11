@@ -10,5 +10,7 @@ public class Class {
 
         System.out.println("ucuncu deneme.");
 
+        System.out.println("dorduncu deneme");
+
     }
 }
