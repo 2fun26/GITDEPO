@@ -11,6 +11,11 @@ public class Class {
         System.out.println("ucuncu deneme.");
 
         System.out.println("dorduncu deneme");
+
         System.out.println("besinci deneme");
+
+        System.out.println("besinci deneme ihsan ");
+        System.out.println("altincideneme");
+
     }
 }
